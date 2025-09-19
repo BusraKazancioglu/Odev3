@@ -1,0 +1,11 @@
+<Personel>
+    <Ad>Büşra</Ad>
+    <Soyad>Kazancioglu</Soyad>
+    <TCKimlikNo>12345678901</TCKimlikNo>
+    <DogumTarihi>1990-05-15</DogumTarihi>
+    <Email>busra@example.com</Email>
+    <Telefon>05001234567</Telefon>
+    <Departman>Yazilim</Departman>
+    <Maas>18500.75</Maas>
+    <TamZamanli>true</TamZamanli>
+</Personel>

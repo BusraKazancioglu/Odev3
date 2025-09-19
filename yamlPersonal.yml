@@ -1,0 +1,10 @@
+Personel:
+  Ad: Büşra
+  Soyad: Kazancioglu
+  TCKimlikNo: "12345678901"
+  DogumTarihi: 1990-05-15
+  Email: busra@example.com
+  Telefon: "05001234567"
+  Departman: :Yazilim
+  Maas: 18500.75
+  TamZamanli: true
